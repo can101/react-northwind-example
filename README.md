@@ -1,5 +1,5 @@
-must be 
-##json-server --watch db.json --port 3000 
+json-server
+##`json-server --watch db.json --port 3000 `
 
 # Getting Started with Create React App
 
